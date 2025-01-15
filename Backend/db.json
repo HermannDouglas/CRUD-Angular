@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": "2",
+      "name": "Notebook Mac",
+      "price": 1299.99
+    },
+    {
+      "id": "3",
+      "name": "Samsung Galaxy S20",
+      "price": 4999.99
+    },
+    {
+      "id": "4",
+      "name": "Monitor Samsung 27'",
+      "price": 799.99
+    },
+    {
+      "name": "Mouse Dell",
+      "price": 90,
+      "id": "5"
+    },
+    {
+      "id": "350a",
+      "name": "Cadeira Gamer",
+      "price": 89.9
+    },
+    {
+      "id": "5871",
+      "name": "Tablet Positivo",
+      "price": 279.99
+    }
+  ]
+}
