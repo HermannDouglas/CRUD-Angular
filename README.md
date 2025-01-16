@@ -1,4 +1,4 @@
-# Instruções para iniciar o Json Server
+# Backend - Instruções para iniciar o Json Server
 O Json Server é uma ferramenta que permite criar uma API REST fake rapidamente e com pouca configuração. Ele é útil para prototipagem, testes e desenvolvimento frontend, pois simula um servidor real e permite realizar operações CRUD (Create, Read, Update, Delete) em um arquivo JSON.
 
 ## Passos para configurar e iniciar o servidor
@@ -31,7 +31,7 @@ O Json Server é uma ferramenta que permite criar uma API REST fake rapidamente 
 
 Após seguir esses passos, o servidor estará disponível em [http://localhost:3001](http://localhost:3001) e você poderá acessar os dados definidos no arquivo `db.json`.
 
-# Comandos do Angular
+# Frontend - Comandos do Angular
 
 1. Instale o Angular CLI globalmente:
     ```sh
@@ -41,6 +41,7 @@ Após seguir esses passos, o servidor estará disponível em [http://localhost:3
 2. Crie um novo projeto Angular:
     ```sh
     ng new frontend --minimal
+    ng new frontend --no-standalone --routing --ssr=false
     ```
 
 3. Inicie o servidor de desenvolvimento Angular:
