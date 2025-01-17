@@ -21,8 +21,8 @@
       "price": 799.99
     },
     {
-      "name": "Mouse Dell",
-      "price": 90,
+      "name": "Controle PS4",
+      "price": 390.89,
       "id": "5"
     },
     {
@@ -34,6 +34,11 @@
       "id": "5871",
       "name": "Tablet Positivo",
       "price": 279.99
+    },
+    {
+      "id": "912b",
+      "name": "Pen drive 32GB Multilaser",
+      "price": 59.49
     }
   ]
 }
