@@ -49,6 +49,11 @@
       "id": "a4d5",
       "name": "Produto de Teste",
       "price": 125.98
+    },
+    {
+      "id": "f0be",
+      "name": "Produto do Formulário",
+      "price": "9.99"
     }
   ]
 }
