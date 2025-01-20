@@ -44,6 +44,11 @@
       "id": "8ccb",
       "name": "Monitor LG 22'",
       "price": 490
+    },
+    {
+      "id": "a4d5",
+      "name": "Produto de Teste",
+      "price": 125.98
     }
   ]
 }
