@@ -54,6 +54,11 @@
       "id": "f0be",
       "name": "Produto do Formulário",
       "price": "9.99"
+    },
+    {
+      "id": "ca6e",
+      "name": "Geladeira EletroLux",
+      "price": "1945.97"
     }
   ]
 }
