@@ -47,13 +47,13 @@
     },
     {
       "id": "a4d5",
-      "name": "Produto de Teste",
-      "price": 125.98
+      "name": "Apple Mac ",
+      "price": "1800.98"
     },
     {
       "id": "f0be",
-      "name": "Produto do Formulário",
-      "price": "9.99"
+      "name": "Webcam Orbs",
+      "price": "159.99"
     },
     {
       "id": "ca6e",
