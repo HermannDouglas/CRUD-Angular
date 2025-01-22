@@ -54,6 +54,36 @@
       "id": "ca6e",
       "name": "Geladeira EletroLux",
       "price": "1945.97"
+    },
+    {
+      "id": "6cbd",
+      "name": "Ipad",
+      "price": "3790.90"
+    },
+    {
+      "id": "a2a9",
+      "name": "Smartphone Sony Xperia g3",
+      "price": "1200"
+    },
+    {
+      "id": "1736",
+      "name": "Xaomi Readme L1",
+      "price": "3800"
+    },
+    {
+      "id": "f5a4",
+      "name": "Mouse Dell",
+      "price": "56.90"
+    },
+    {
+      "id": "fed8",
+      "name": "Teclado Asus",
+      "price": "79.99"
+    },
+    {
+      "id": "5ddb",
+      "name": "Teste",
+      "price": "10"
     }
   ]
 }
