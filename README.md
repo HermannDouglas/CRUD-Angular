@@ -3,25 +3,31 @@ O Json Server é uma ferramenta que permite criar uma API REST fake rapidamente 
 
 ## Passos para configurar e iniciar o servidor
 
-1. Inicialize um novo projeto Node.js:
+1. Clone o repositório do projeto:
     ```sh
-    npm init -y
+    git clone https://github.com/HermannDouglas/CRUD-Angular
     ```
 
-2. Instale o Json Server como dependência:
+2. Navegue até o diretório do projeto:
     ```sh
-    npm i json-server
+    cd backend
     ```
 
-3. Inicie o servidor Json:
+3. Instale as dependências do projeto:
+    ```sh
+    npm install
+    ```
+
+4. Inicie o servidor Json:
     ```sh
     npm start
     ```
 
 ### Descrição dos comandos
 
-- `npm init -y`: Este comando cria um novo arquivo `package.json` com as configurações padrão.
-- `npm i json-server`: Este comando instala o Json Server, que é uma ferramenta para criar uma API REST fake rapidamente.
+- `git clone https://github.com/HermannDouglas/CRUD-Angular`: Este comando clona o repositório do projeto.
+- `cd backend`: Este comando navega até o diretório do projeto backend.
+- `npm install`: Este comando instala as dependências do projeto.
 - `npm start`: Este comando inicia o Json Server e começa a servir os dados do arquivo `db.json` na porta 3001.
 
 ### Estrutura do Projeto
@@ -33,18 +39,24 @@ Após seguir esses passos, o servidor estará disponível em [http://localhost:3
 
 # Frontend - Comandos do Angular
 
-1. Instale o Angular CLI globalmente:
+1. Clone o repositório do projeto:
     ```sh
-    npm i -g @angular/cli
+    git clone https://github.com/HermannDouglas/CRUD-Angular
     ```
 
-2. Crie um novo projeto Angular:
+2. Navegue até o diretório do projeto:
     ```sh
-    ng new frontend --minimal
-    ng new frontend --no-standalone --routing --ssr=false
+    cd frontend
     ```
 
-3. Inicie o servidor de desenvolvimento Angular:
+3. Instale as dependências do projeto:
+    ```sh
+    npm install
+    ```
+
+4. Inicie o servidor de desenvolvimento Angular:
     ```sh
     npm start
     ```
+
+Após seguir esses passos, o servidor de desenvolvimento Angular estará disponível em [http://localhost:4200](http://localhost:4200).
